@@ -1,0 +1,17 @@
+location
+otp 
+pay 
+food 
+
+1. user side
+    1. food / zomato clone
+    2. payment
+    3. otp: to unlock dron box
+2. admin side
+    1. will recive ordr, location placed / otp to set while lockting the drone
+    2. manage orders
+    3. 
+
+
+what about delivery confirmation
+how do we detect when box was opened
